@@ -1,2 +1,2 @@
  INSTRUCRION OF PROJECT
-project fileas,docs.
+PROJECT FILES,DOCS
