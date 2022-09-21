@@ -1,1 +1,2 @@
-# INSTRUCRION OF PROJECT
+ INSTRUCRION OF PROJECT
+project fileas,docs.
